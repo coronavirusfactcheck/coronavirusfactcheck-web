@@ -43,7 +43,7 @@ But this part from the very same article was ignored by TV2.
 **Fact 2**
 A trustworthy media AP already published an in-depth article: [Drop in cellphone users in China wrongly attributed to coronavirus death](https://apnews.com/afs:Content:8717250566) to address this wrong information.
 
-([Check why we believe AP is a more trusted source](\About))
+([Check why we believe AP is a more trusted source](/about))
 
 {% blockquote %}
 CLAIM: Drop in cellphone users in China is proof that the coronavirus has killed 21 million in the country, far more than the official count.
