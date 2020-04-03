@@ -1,0 +1,6 @@
+[submodule "themes/fact-check-hiero"]
+	path = themes/fact-check-hiero
+	url = https://github.com/coronavirusfactcheck/hexo-theme-hiero
+[submodule "themes/fact-check-icarus"]
+	path = themes/fact-check-icarus
+	url = https://github.com/coronavirusfactcheck/hexo-theme-icarus
