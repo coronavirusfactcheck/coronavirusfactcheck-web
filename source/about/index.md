@@ -12,8 +12,8 @@ Corona Virus Fact Check is here for providing information from reputable sources
 We encourage good discussions that are based on facts. 
 We against racism and hate speeches, especially when they are based on fake news. 
  
-## Credibility of the source
-The fact checking is based on the following matrix, **by order**.
+## The credibility of the source
+The fact-checking is based on the following matrix, **by order**.
 
 |Credibility|Source|Example|
 |----------:|:-------------|:------|
@@ -23,7 +23,7 @@ The fact checking is based on the following matrix, **by order**.
 |+++|Well-known and respectable scientists and medical professionals|"The Lancet" journal|
 |+|Well-known co-authoring websites|Wikipedia, Quora|
 |+/-|Social media|Facebook, Twitter|
-|- -|Politicians and Government officer who has his/own own political agenda|[Mr. Donald Trump](https://twitter.com/realDonaldTrump)|
+|- -|Politicians and Government officer who has his/her own political agenda|[Mr. Donald Trump](https://twitter.com/realDonaldTrump)|
 |- - - -|Newspapers in "Just No" "Don't read" zones|Daily Mail, Daily Caller|
 
 ## Media Bias Charts
@@ -35,7 +35,6 @@ The fact checking is based on the following matrix, **by order**.
 ## Why critical thinking is important?
 Because some media are deliberately lying, or manipulating the fact.
 ![Credit: Boredpanda.com](/about/index/examples-media-truth-manipulation-1.jpg "credit: allsides.com")
-![Credit: Boredpanda.com](/about/index/examples-media-truth-manipulation-2.jpg "credit: allsides.com")
 
 Contact us: coronavirusfactcheck@gmail.com
 
