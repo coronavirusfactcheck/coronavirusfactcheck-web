@@ -5,10 +5,11 @@ thumbnail: /2020/04/03/TV2-Professor-of-Chinas-corona-statistics-We-cannot-rely-
 tags:
     - TV2
     - Statistics
-    - Mobile
+    - Mobile Subscriptions
     - Official Figures
     - AP News
     - Bloomberg
+    - 
 ---
 
 # News That Was Published by TV2
