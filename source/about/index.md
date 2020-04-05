@@ -10,7 +10,7 @@ Coronavirus disease (COVID-19) is an infectious disease caused by a newly discov
 Corona Virus Fact Check is here for providing information from reputable sources, to help you identify fake news. 
 
 We encourage good discussions that are based on facts. 
-We against racism and hate speeches, especially when they are based on fake news. 
+We are against racism and hate speeches, especially when they are based on fake news. 
  
 ## The credibility of the source
 The fact-checking is based on the following matrix, **by order**.
@@ -42,5 +42,6 @@ Reference:
 - [FAKE NEWS vs. REAL NEWS: How to Determine the Reliability of Sources](https://library.piercecollege.edu/c.php?g=598055&p=4140227)
 - [Step-by-Step Guide & Research Rescue: Evaluating Credibility](https://guides.lib.byu.edu/c.php?g=216340&p=1428399)
 - [Fake News: How to Spot It](https://www.prattlibrary.org/research/tools/index.aspx?cat=90&id=4735)
+- [Media Bias Chart by Ad Fontes Media](https://www.adfontesmedia.com/?v=402f03a963ba)
 - [Top Online News Media Bias Ratings](https://www.allsides.com/media-bias/media-bias-chart)
 - [People Are Posting Examples Of How Media Can Manipulate The Truth](https://www.boredpanda.com/examples-media-truth-manipulation/?utm_source=google&utm_medium=organic&utm_campaign=organic)

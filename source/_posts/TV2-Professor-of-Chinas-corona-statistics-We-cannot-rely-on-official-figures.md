@@ -9,7 +9,6 @@ tags:
     - Official Figures
     - AP News
     - Bloomberg
-    - 
 ---
 
 # News That Was Published by TV2
@@ -24,7 +23,7 @@ For the first time since 2000, it is the red number for the world's largest mobi
 During the same period, China Unicom Hong Kong Ltd. lost 7.8 million users, while China Telecom Corporation reports that 5.6 million customers disappeared in February.
 {% endblockquote %}
 
-Based on above, the TV2 news had conclused that:
+Based on above, the article on TV2 news continued as:
 {% blockquote %}
 The unusual decline in the number of mobile users following the corona eruption has also led to speculation in social media about large dark numbers in the spread of the virus in China.
 
