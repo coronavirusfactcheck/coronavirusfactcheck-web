@@ -29,6 +29,7 @@
     "hexo-renderer-stylus": "^1.1.0",
     "hexo-server": "^1.0.0",
     "inferno": "^7.4.2",
-    "inferno-create-element": "^7.4.2"
+    "inferno-create-element": "^7.4.2",
+    "netlify-cms": "^2.10.43"
   }
 }
