@@ -3,7 +3,6 @@ title: About
 date: 2020-04-03 13:55:30
 photos: ["/about/index/News_quality.png"]
 description: Corona Virus Fact Check is here for providing information from reputable sources, to help you identify fake news.
-og_image: /about.png
 ---
 Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. Stay aware of the latest information on the COVID-19 outbreak, but do not be confused by the FAKE NEWS. 
 
