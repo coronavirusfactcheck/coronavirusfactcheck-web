@@ -11,7 +11,7 @@ tags:
     - Bloomberg
 ---
 
-# News That Was Published by TV2
+## News That Was Published by TV2
 On 03/27/2020, Norweigen media TV2 published a news *["Professor of China's corona statistics: - We cannot rely on official figures"](https://www.tv2.no/a/11327627/?fbclid=IwAR0NYtl34g0V4ZcgjQFkVUz8ZtVWFwYwrvcCosKcwM_nai920g0GrGgFinw)*, with subtitle "*21 MILLION FEWER MOBILE CUSTOMERS IN CHINA*". (Original text: *Professor om Kinas koronastatistikk: – Vi kan ikke stole på offisielle tall, 21 MILLIONER FÆRRE MOBILKUNDER I KINA*), by reporter *Kjell Persen*.
 
 <!-- more -->
@@ -34,7 +34,7 @@ The unusual decline in the number of mobile users following the corona eruption 
 We can't rely on official figures. There is great uncertainty. Chinese people with symptoms that are not tested are reported because they do not want to be diagnosed with new cases, Tunsjø told TV 2.
 {% endblockquote %}
 
-# Fact-Checking
+## Fact-Checking
 **Fact 1** 
 In the **very same** [Bloomberg news](https://www.bloomberg.com/news/articles/2020-03-23/china-s-mobile-carriers-lose-15-million-users-as-virus-bites) article, it clearly explained that
 {% blockquote %}

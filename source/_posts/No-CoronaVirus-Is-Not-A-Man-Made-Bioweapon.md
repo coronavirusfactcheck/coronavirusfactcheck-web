@@ -8,7 +8,7 @@ tags:
     - Conspiracy
     - Tom Cotton
 ---
-# What We Heard
+## What We Heard
 There is a conspiracy on internet that, Corona Virus (offical name [SARS-CoV-2](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2)), was made by scientists and escaped from a lab in Wuhan China, where the outbreak began.
 
 <!-- more -->
@@ -36,7 +36,7 @@ Sen. Tom Cotton (R-AR) has repeatedly suggested before Congress and on Fox News 
 {% asset_img "TomCottonTwitter.png" "Tom Cottons Twitter" %}
 {% endblockquote %}
 
-# Fact-Checking
+## Fact-Checking
 Tremendous scientists and media have confirmed **this conspiracy is NOT true**.
 
 **Example 1**
