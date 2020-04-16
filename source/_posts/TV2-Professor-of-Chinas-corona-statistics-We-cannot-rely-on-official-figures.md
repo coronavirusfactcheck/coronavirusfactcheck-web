@@ -14,6 +14,8 @@ tags:
 # News That Was Published by TV2
 On 03/27/2020, Norweigen media TV2 published a news *["Professor of China's corona statistics: - We cannot rely on official figures"](https://www.tv2.no/a/11327627/?fbclid=IwAR0NYtl34g0V4ZcgjQFkVUz8ZtVWFwYwrvcCosKcwM_nai920g0GrGgFinw)*, with subtitle "*21 MILLION FEWER MOBILE CUSTOMERS IN CHINA*". (Original text: *Professor om Kinas koronastatistikk: – Vi kan ikke stole på offisielle tall, 21 MILLIONER FÆRRE MOBILKUNDER I KINA*), by reporter *Kjell Persen*.
 
+<!-- more -->
+
 In the beginning of the news, it refered to a [Bloomberg news](https://www.bloomberg.com/news/articles/2020-03-23/china-s-mobile-carriers-lose-15-million-users-as-virus-bites), that
 {% blockquote %}
 Mobile companies in China report 21 million fewer mobile customers in the country after the corona eruption, Bloomberg writes .

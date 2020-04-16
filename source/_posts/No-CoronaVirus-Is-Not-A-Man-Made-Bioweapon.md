@@ -11,6 +11,8 @@ tags:
 # What We Heard
 There is a conspiracy on internet that, Corona Virus (offical name [SARS-CoV-2](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2)), was made by scientists and escaped from a lab in Wuhan China, where the outbreak began.
 
+<!-- more -->
+
 As [The Economist Times](https://economictimes.indiatimes.com/magazines/panache/is-covid-19-a-bioweapon-five-conspiracy-theories-around-coronavirus-that-will-shock-you/the-biggest-humanitarian-crisis/slideshow/74870568.cms) reported:
 {% blockquote %}
 According to an ET Prime report, a group of Chinese scientists in Canada were accused of spying and were stripped of their access to Canada’s National Microbiology Lab (NML) which is known to work on some of the most deadly pathogens.
