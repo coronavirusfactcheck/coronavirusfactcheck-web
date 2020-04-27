@@ -1,7 +1,6 @@
 ---
 title: 
 date: 2020-04-03 13:55:30
-photos: ["/about/index/News_quality.png"]
 description: Corona Virus Fact Check is here for providing information from reputable sources, to help you identify fake news.
 ---
 # Our Mission
